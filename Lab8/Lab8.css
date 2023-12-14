@@ -1,0 +1,19 @@
+/* Перший стиль - вбудований в елемент */
+h1 {
+    color: blue !important;
+}
+
+/* Другий стиль - вбудований в елемент та ідентифікатор */
+#experience h2 {
+    color: red;
+}
+
+/* Третій стиль - клас та тег */
+.skill-item {
+    color: green;
+}
+
+/* Четвертий стиль - клас та ідентифікатор */
+#education .section-title {
+    color: purple;
+}
